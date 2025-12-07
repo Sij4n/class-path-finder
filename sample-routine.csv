@@ -1,0 +1,19 @@
+Day,Time,Section,Hours,Room,Block,Lecturer,Module,Class Type,Semester,Course
+SUN,08:00 - 09:30,A13,01:30,T01,C,Dr. Sarah Johnson,Data Structures,Lecture,III,BSc.IT
+SUN,10:00 - 12:00,A13,02:00,L201,B,Prof. Michael Chen,Database Systems,Practical,III,BSc.IT
+SUN,13:00 - 14:30,A13,01:30,R103,A,Dr. Emily Davis,Web Development,Tutorial,III,BSc.IT
+MON,08:00 - 09:30,A13,01:30,T02,C,Dr. Robert Wilson,Algorithms,Lecture,III,BSc.IT
+MON,10:00 - 11:30,A13,01:30,R104,A,Ms. Lisa Anderson,Software Engineering,Lecture,III,BSc.IT
+MON,14:00 - 16:00,A13,02:00,L202,B,Dr. Sarah Johnson,Data Structures,Practical,III,BSc.IT
+TUE,09:00 - 10:30,A13,01:30,T01,C,Prof. Michael Chen,Database Systems,Lecture,III,BSc.IT
+TUE,11:00 - 12:30,A13,01:30,R105,A,Dr. James Martinez,Computer Networks,Lecture,III,BSc.IT
+TUE,14:00 - 15:30,A13,01:30,T03,C,Dr. Emily Davis,Web Development,Lecture,III,BSc.IT
+WED,08:00 - 10:00,A13,02:00,L203,B,Dr. Robert Wilson,Algorithms,Practical,III,BSc.IT
+WED,10:30 - 12:00,A13,01:30,R106,A,Ms. Lisa Anderson,Software Engineering,Tutorial,III,BSc.IT
+WED,13:00 - 14:30,A13,01:30,T02,C,Dr. James Martinez,Computer Networks,Lecture,III,BSc.IT
+THU,08:00 - 09:30,A13,01:30,T01,C,Dr. Sarah Johnson,Data Structures,Lecture,III,BSc.IT
+THU,10:00 - 11:30,A13,01:30,R107,A,Prof. Michael Chen,Database Systems,Tutorial,III,BSc.IT
+THU,14:00 - 16:00,A13,02:00,L204,B,Dr. Emily Davis,Web Development,Practical,III,BSc.IT
+FRI,09:00 - 10:30,A13,01:30,T03,C,Dr. Robert Wilson,Algorithms,Lecture,III,BSc.IT
+FRI,11:00 - 12:30,A13,01:30,R108,A,Ms. Lisa Anderson,Software Engineering,Lecture,III,BSc.IT
+FRI,14:00 - 15:30,A13,01:30,T02,C,Dr. James Martinez,Computer Networks,Tutorial,III,BSc.IT
